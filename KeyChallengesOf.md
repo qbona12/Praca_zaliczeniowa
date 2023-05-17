@@ -4,15 +4,16 @@ layout: default
 nav_order: 3
 ---
 
+<!-- omit in toc -->
+# Key Challenges of Communication in Remote and Distributed Teams 
 
-# Key Challenges of Communication in Remote and Distributed Teams
 
-- [Key Challenges of Communication in Remote and Distributed Teams](#key-challenges-of-communication-in-remote-and-distributed-teams)
-  - [Lack of Face-to-Face Communication:](#lack-of-face-to-face-communication)
-  - [Time Zone Differences:](#time-zone-differences)
-  - [Language and Cultural Differences:](#language-and-cultural-differences)
-  - [Technological Issues:](#technological-issues)
-  - [Other Challenges:](#other-challenges)
+
+- [Lack of Face-to-Face Communication:](#lack-of-face-to-face-communication)
+- [Time Zone Differences:](#time-zone-differences)
+- [Language and Cultural Differences:](#language-and-cultural-differences)
+- [Technological Issues:](#technological-issues)
+- [Other Challenges:](#other-challenges)
 
 
 
