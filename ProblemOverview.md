@@ -9,7 +9,7 @@ nav_order: 2
 
 This chapter gives a detailed problem overview of existing research on the communication techniques of remote and distributed teams. It evaluates the current state of knowledge in this topic while identifying key gaps indicating areas that deserve extra investigation and improvement.
 
-There are several considerable gaps in our understanding of communication techniques for distributed teams. One significant gap is the incorporation of developing technology into remote team communication methods. With technological breakthroughs such as augmented reality, virtual reality, and artificial intelligence, it is critical to investigate how these technologies might be efficiently utilised to enhance communication, collaboration, and knowledge sharing among remote and distributed teams.
+There are several considerable gaps in our understanding of communication techniques for distributed teams. One significant gap is the incorporation of developing technology into remote team communication methods. With technological breakthroughs such as augmented reality, virtual reality, and artificial intelligence, it is critical to investigate how these technologies might be applied to enhance communication, collaboration, and knowledge sharing among remote and distributed teams.
 
 Furthermore, a deeper investigation of practises that promote successful communication across diverse and geographically dispersed teams will improve the research. Research on the complexities of cross-cultural communication, language barriers, and virtual collaboration issues can give useful insights for building diversity, understanding, and effective communication practises within remote and distributed teams.
 
