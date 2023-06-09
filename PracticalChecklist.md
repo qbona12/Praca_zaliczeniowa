@@ -7,6 +7,7 @@ nav_order: 5
 <!-- omit in toc -->
 # Practical checklist
 
+![](photo4.jpg)
 
 By embracing these best practices, teams can overcome the challenges associated with their work model. As technology continues to advance and the prevalence of remote teams grows, it is essential to adapt communication methods to support efficient collaboration and maintain high levels of productivity in remote and distributed team settings.
 
