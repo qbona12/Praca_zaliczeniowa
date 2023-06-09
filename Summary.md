@@ -6,6 +6,7 @@ nav_order: 5
 
 # Summary
 
+![](photo2.png)
 
 Throughout this thesis, we have examined efficient communication tactics for remote and distributed teams. Initially, we offered an overview of the issue, highlighting the concept of remote and dispersed teams and emphasising the need for efficient communication in these circumstances. The problem overview chapter examined current research on remote and dispersed teams, identifying gaps in the field that need to be filled.
 
